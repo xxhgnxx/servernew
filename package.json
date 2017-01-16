@@ -1,0 +1,26 @@
+{
+  "name": "servernew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "devtool app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxhgnxx/servernew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxhgnxx/servernew/issues"
+  },
+  "homepage": "https://github.com/xxhgnxx/servernew#readme",
+  "dependencies": {
+    "js-yaml": "^3.7.0",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
+}
