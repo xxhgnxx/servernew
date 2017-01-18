@@ -1,0 +1,1 @@
+let userlist = new Array<User>();

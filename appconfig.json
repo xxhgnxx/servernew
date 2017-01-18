@@ -1,0 +1,5 @@
+{
+    "port": 81,
+    "sendtrytime": 5,
+    "sendtimeout": 2000
+}
